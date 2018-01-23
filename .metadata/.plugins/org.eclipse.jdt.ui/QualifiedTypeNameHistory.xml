@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="lombok.Data"/>
+<fullyQualifiedTypeName name="com.kabank.mvc.util.DispatcherSevlet"/>
+<fullyQualifiedTypeName name="com.kabank.mvc.util.Enums.Table"/>
+<fullyQualifiedTypeName name="com.kabank.mvc.util.DispatcherServlet"/>
+<fullyQualifiedTypeName name="com.kabank.mvc.serviceImpl.AdminServiceImpl"/>
+<fullyQualifiedTypeName name="com.kabank.mvc.daoImpl.CommonDAOImpl"/>
+<fullyQualifiedTypeName name="java.sql.ResultSet"/>
+<fullyQualifiedTypeName name="java.sql.Statement"/>
+<fullyQualifiedTypeName name="java.sql.Connection"/>
+<fullyQualifiedTypeName name="com.kabank.mvc.command.Command"/>
+<fullyQualifiedTypeName name="com.kabank.mvc.command.InitCommand"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="com.kabank.mvc.domain.MemberBean"/>
+<fullyQualifiedTypeName name="com.kabank.mvc.serviceImpl.MemberServiceImpl"/>
+<fullyQualifiedTypeName name="com.kabank.mvc.serviceImpl.AccountServiceImpl"/>
+<fullyQualifiedTypeName name="com.kabank.mvc.domain.MobileBean"/>
+<fullyQualifiedTypeName name="com.kabank.mvc.serviceImpl.MobileServiceImpl"/>
+<fullyQualifiedTypeName name="com.kabank.mvc.domain.LottoBean"/>
+<fullyQualifiedTypeName name="com.kabank.mvc.serviceImpl.LottoServiceImpl"/>
+<fullyQualifiedTypeName name="com.kabank.mvc.domain.FoodBean"/>
+<fullyQualifiedTypeName name="com.kabank.mvc.daoImpl.FoodDAOImpl"/>
+<fullyQualifiedTypeName name="java.lang.StringBuffer"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="com.kabank.mvc.service.FoodService"/>
+<fullyQualifiedTypeName name="com.kabank.mvc.serviceImpl.FoodServiceImpl"/>
+<fullyQualifiedTypeName name="com.kabank.mvc.template.Conn"/>
+<fullyQualifiedTypeName name="com.kabank.mvc.enums.MemberEnum"/>
+<fullyQualifiedTypeName name="com.kabank.mvc.command.ResultMap"/>
+<fullyQualifiedTypeName name="com.kabank.mvc.domain.AccountBean"/>
+</qualifiedTypeNameHistroy>
